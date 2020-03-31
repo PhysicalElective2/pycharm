@@ -5,6 +5,9 @@ class TreeNode:
         self.left = None
         self.right = None
 class Solution:
+    def firstpush(self):
+        print("this is the first git function")
+        return True
     def GetUglyNumber_Solution(self, index):
         """丑数，输出从小到大第index的丑数
         """
